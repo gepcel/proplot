@@ -2,7 +2,8 @@
 # Read the Docs configuration file
 version: 2
 
-formats: all
+formats:
+  - htmlzip
 
 # Sphinx config
 sphinx:
