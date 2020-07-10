@@ -2,6 +2,8 @@
 # Read the Docs configuration file
 version: 2
 
+formats: all
+
 # Sphinx config
 sphinx:
   builder: html
